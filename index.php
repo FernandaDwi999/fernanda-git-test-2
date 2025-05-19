@@ -12,8 +12,11 @@
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui reprehenderit, itaque provident debitis
         perspiciatis ipsum omnis tenetur sit quas explicabo, blanditiis numquam totam. Modi, necessitatibus! Omnis
         excepturi aut atque ea.
-
     </p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 
 </html>
